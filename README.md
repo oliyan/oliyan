@@ -18,7 +18,6 @@
 | ![](https://github-readme-stats.vercel.app/api?username=oliyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=oliyan&theme=dark&hide_border=false)<br/> |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=php) | a |
 
-![GitHub Contribution Snake](https://github.com/oliyan/oliyan/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://metrics.lecoq.io/oliyan?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FLondon)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=oliyan&theme=light)
 
