@@ -18,10 +18,7 @@
 | ![](https://github-readme-stats.vercel.app/api?username=oliyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=oliyan&theme=dark&hide_border=false)<br/> |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=php) | a |
 
+![GitHub Contribution Snake](https://github.com/oliyan/oliyan/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliyan&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliyan&theme=light&hide_border=false&layout=compact&hide=php)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliyan&theme=light&hide_border=false)
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=oliyan&theme=light&margin-w=15&margin-h=15&column=7)
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=oliyan&theme=light)
 
